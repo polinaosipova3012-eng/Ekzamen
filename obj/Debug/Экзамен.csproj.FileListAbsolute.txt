@@ -1,0 +1,10 @@
+F:\Экзамен\bin\Debug\Экзамен.exe.config
+F:\Экзамен\bin\Debug\Экзамен.exe
+F:\Экзамен\bin\Debug\Экзамен.pdb
+F:\Экзамен\obj\Debug\Экзамен.csproj.AssemblyReference.cache
+F:\Экзамен\obj\Debug\Экзамен.Form1.resources
+F:\Экзамен\obj\Debug\Экзамен.Properties.Resources.resources
+F:\Экзамен\obj\Debug\Экзамен.csproj.GenerateResource.cache
+F:\Экзамен\obj\Debug\Экзамен.csproj.CoreCompileInputs.cache
+F:\Экзамен\obj\Debug\Экзамен.exe
+F:\Экзамен\obj\Debug\Экзамен.pdb
